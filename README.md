@@ -78,7 +78,7 @@
         src="https://github-readme-stats.vercel.app/api?username=lucasmolc&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
       <!--<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmolc&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />-->
       <img height="137px"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=scuL-M&hide_border=true&theme=nightowl" />
+        src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmolc&hide_border=true&theme=nightowl" />
     </p>
   </div>
 </details>
@@ -87,5 +87,5 @@
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=lucasmolc&style=plastic&label=Views"><img>
-  <img src="https://badges.pufler.dev/visits/scuL-M/LucasMol?color=black&logo=github" />
+  <img src="https://badges.pufler.dev/visits/lucasmolc/LucasMol?color=black&logo=github" />
 </p>
