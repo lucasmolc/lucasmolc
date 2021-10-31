@@ -87,5 +87,5 @@
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=lucasmolc&style=plastic&label=Views"><img>
-  <img src="https://badges.pufler.dev/visits/lucasmolc/LucasMol?color=black&logo=github" />
+  <img src="https://badges.pufler.dev/visits/lucasmolc/lucasmolc?color=black&logo=github" />
 </p>
