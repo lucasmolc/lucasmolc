@@ -25,7 +25,7 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Developer @ [Linx](https://www.linx.com.br/) \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Studying and dedicating myself to always learn more. (I started programming at 12 years old and kept it going until today)!\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programming since 2018! :baby:\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Professionally programming since 2018! :baby:\
 &nbsp;&nbsp;&nbsp;:older_man: &nbsp;I am currently 18 years old. :baby_bottle:
 
 <p align="center">
