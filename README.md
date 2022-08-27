@@ -10,7 +10,7 @@
 </table>
 
 <!--
-<p align="center">Atualmente tenho 18 anos. Sou estudante de Sistemas de Informação na UNA e atualmente estou no segundo
+<p align="center">Atualmente tenho 18 anos. Sou estudante de Sistemas de Informação e atualmente estou no quarto
   período.
   Faço parte da Área de TI desde 2018, trabalhando com o desenvolvimento de softwares. Detenho conhecimento nas
   tecnologias de desenvolvimento tais como: C#, Java.
@@ -22,7 +22,7 @@
 
 ### :raising_hand_man: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Desenvolvedor na [Linx](https://www.linx.com.br/) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Desenvolvedor na [Debarry](http://www.debarry.cloud/) \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas e automação de rotinas diárias.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Estudando e me dedicando a sempre aprender mais. (Iniciei na programação aos meus 12 e continuo até hoje)!\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando profissionalmente desde 2018! :baby:\
