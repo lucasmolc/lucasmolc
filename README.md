@@ -90,6 +90,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lucasmolc/lucasmolc/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lucasmolc/lucasmolc/output/snake.svg" alt="Snake animation" />
 
 ###
