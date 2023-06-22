@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🧑‍💻  Atualmente trabalhando como Desenvolvedor na Debarry<br>   💓  Apaixonado por solução de problemas e automação de rotinas diárias.<br>   ✍️  Estudando e me dedicando a sempre aprender mais. (Iniciei na programação aos meus 12 e continuo até hoje)!<br>   🛠️  Programando profissionalmente desde 2018! 👶<br>   👴  Estou atualmente com 20 Anos. 🍼</h4>
+<h4 align="left">🧑‍💻  Atualmente trabalhando como Full-Stack .NET Developer na Debarry<br>   💓  Apaixonado por solução de problemas e automação de rotinas diárias.<br>   ✍️  Estudando e me dedicando a sempre aprender mais. (Iniciei na programação aos meus 12 e continuo até hoje)!<br>   🛠️  Programando profissionalmente desde 2018! 👶<br>   👴  Estou atualmente com 20 Anos. 🍼</h4>
 
 ###
 
