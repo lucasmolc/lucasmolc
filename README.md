@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🧑‍💻  Atualmente trabalhando como Desenvolvedor .NET C# Full-Stack - Sênior na uCondo<br>   💓  Apaixonado por solução de problemas e automação de rotinas diárias.<br>   ✍️  Estudando e me dedicando a sempre aprender mais. (Iniciei na programação aos meus 12 e continuo até hoje)!<br>   🛠️  Programando profissionalmente desde 2018! 👶<br>   👴  Estou atualmente com 21 Anos. 🍼</h4>
+<h4 align="left">💓  Apaixonado por solução de problemas e automação de rotinas diárias.<br>   ✍️  Estudando e me dedicando a sempre aprender mais. (Iniciei na programação aos meus 12 e continuo até hoje)!<br>   🛠️  Programando profissionalmente desde 2018! 👶<br></h4>
 
 ###
 
